@@ -125,7 +125,7 @@ Join thousands of learners and kickstart your web development journey!
 ## 📬 Connect with Me
 
 - **🌐 Website:** [azzammakki.com](https://www.azzammakki.com)
-- **💼 LinkedIn:** [linkedin.com/in/azzammakki](https://www.linkedin.com/in/azzammakki)
+- **💼 LinkedIn:** [linkedin.com/in/azzam-makki-78ab501a2/](https://www.linkedin.com/in/azzam-makki-78ab501a2/)
 - **🎓 Udemy:** [udemy.com/user/azzam-hafiz](https://www.udemy.com/user/azzam-hafiz/)
 - **📧 Email:** azzam49coder@gmail.com
 
