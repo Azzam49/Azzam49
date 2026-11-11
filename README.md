@@ -15,6 +15,7 @@
 💡 Instructor reaching over **30,000 students globally**.
 
 🚀 Founder of **[ZAM Academy](https://www.zamacademy.com)** — practical, mentor-led coding education focused on helping students build real-world development skills.
+ZAM Academy is 1-on-1 coding mentorship for beginners. A mentor builds your roadmap, reviews your code every week and helps you ship real projects. Online, any time zone.
 
 Feel free to reach out if you'd like to start your coding journey, learn through 1-on-1 mentorship, or discuss freelance and software projects.
 
